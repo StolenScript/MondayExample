@@ -1,1 +1,1 @@
-# MondayExample
+# Discriminant
